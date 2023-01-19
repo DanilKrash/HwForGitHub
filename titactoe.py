@@ -86,3 +86,5 @@ class TicTacToe:
         return result + "---"
 
 ttt = TicTacToe(input('Введите имя первого игрока: '), input('Введите имя второго игрока: '))
+
+tertetrt
